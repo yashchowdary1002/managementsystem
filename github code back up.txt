@@ -1,4 +1,4 @@
-[Forwarded from 2000030605_ Tejasree Mankenapalli]
+
 *{
   margin: 0;
   padding: 0;
